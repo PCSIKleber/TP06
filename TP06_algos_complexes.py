@@ -134,7 +134,8 @@ def squarefree_pascal(n):
 
 # Les triangles suivants peuvent servir pour vos propres tests. Il faudra
 # neanmoins penser a les convertir en liste de listes dans l'esprit de ce que
-# renvoie la fonction 'pascal(n)'
+# renvoie la fonction 'pascal(n)' pour pouvoir etre utiliser dans la
+# fonction a ecrire.
 
 # L'exemple
 mini = """3
